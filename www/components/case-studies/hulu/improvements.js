@@ -76,8 +76,8 @@ const Improvements = () => (
       <h2>One Framework for Everyone</h2>
 
       <p>
-        Adopting Next.js early on in it's history required writing lots of
-        custom code to deal with the team's specific use cases. However, as the
+        Adopting Next.js early on in its history required writing lots of custom
+        code to deal with the team's specific use cases. However, as the
         ecosystem evolved, they were able to chip away at old abstractions and
         let Next.js handle them directly.
       </p>

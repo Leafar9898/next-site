@@ -14,10 +14,10 @@ export default () => (
       </p>
 
       <p>
-        Interested in working with modern technology on a word class team? Check
-        out the <a href="https://hulu.com/jobs">Hulu jobs page</a> or their{' '}
-        <a href="https://medium.com/hulu-tech-blog">tech blog</a> for more info
-        on joining the Hulu team!
+        Interested in working with modern technology on a world-class team?
+        Check out the <a href="https://hulu.com/jobs">Hulu jobs page</a> or
+        their <a href="https://medium.com/hulu-tech-blog">tech blog</a> for more
+        info on joining the Hulu team!
       </p>
     </div>
 

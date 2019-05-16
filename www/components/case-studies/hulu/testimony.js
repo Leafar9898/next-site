@@ -2,7 +2,7 @@ const Testimony = () => (
   <section>
     <div className="container">
       <p>
-        “Productivity has sky rocketed. We’re able to focus on feature
+        “Productivity has skyrocketed. We’re able to focus on feature
         development and improving our product, while Next.js handles the more
         difficult tooling for us.”
       </p>

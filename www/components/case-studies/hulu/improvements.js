@@ -42,7 +42,9 @@ const Improvements = () => (
         Even when issues arose, Zack found that error tracing with
         server-rendered pages was far superior compared to any other solution
         he'd tried. By acting as a unified tool for managing both client and
-        server-side rendering, Next.js provides an amazing developer experience.
+        server-side rendering, Next.js makes it easy for developers to tap into
+        the rich benefits of server-side rendering, while still working in
+        familiar territory of writing client side code.
       </p>
 
       <p>
